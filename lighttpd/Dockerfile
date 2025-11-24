@@ -1,4 +1,4 @@
-FROM alpine:3.15.3
+FROM alpine:3.21.5
 ARG COMMIT_SHA
 ARG VERSION
 
